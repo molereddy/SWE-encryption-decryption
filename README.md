@@ -1,1 +1,1 @@
-# swe_decryption_in_rkt
+# decrypt secret word encrypted text in Racket. CS154 coursework.
